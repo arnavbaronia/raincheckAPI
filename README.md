@@ -8,6 +8,10 @@ https://arnavbaronia.github.io/raincheckAPI/
 ## Built With
 
 - HTML
+- CSS
+- JavaScript
+- APIs
+- Leaflet.js
 
 ## Authors
 
