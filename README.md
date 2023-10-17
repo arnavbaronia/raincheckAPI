@@ -1,5 +1,7 @@
 # RainCheck
 
+![screenshot](./new.png)
+
 ## Live Demo
 https://arnavbaronia.github.io/raincheckAPI/
 
