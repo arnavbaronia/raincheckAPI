@@ -3,8 +3,7 @@
 ![screenshot](./new.png)
 
 ## Live Demo
-https://arnavbaronia.github.io/raincheckAPI/
-
+https://arnav-raincheck-api.netlify.app/
 ## Built With
 
 - HTML
